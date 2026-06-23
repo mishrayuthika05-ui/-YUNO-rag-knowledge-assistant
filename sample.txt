@@ -1,0 +1,5 @@
+Machine Learning is a field of Artificial Intelligence.
+
+It helps computers learn from data.
+
+Overfitting occurs when a model memorizes training data instead of learning patterns.
