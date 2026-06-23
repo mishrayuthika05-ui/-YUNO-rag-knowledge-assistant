@@ -20,7 +20,7 @@ A Retrieval-Augmented Generation (RAG) Knowledge Assistant built using:
 ## Run
 
 ```bash
-uvicorn main:app --reload
+uvicorn main.main:app --reload
 ```
 
 Open:
